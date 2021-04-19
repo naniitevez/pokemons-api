@@ -1,0 +1,2 @@
+(this.webpackJsonppokemons=this.webpackJsonppokemons||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var c=t(1),o=t.n(c),r=t(3),s=t.n(r),i=(t(8),t(0));var p=function(){return Object(i.jsx)(i.Fragment,{children:Object(i.jsx)("h1",{children:"app component"})})};s.a.render(Object(i.jsx)(o.a.StrictMode,{children:Object(i.jsx)(p,{})}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.144e660b.chunk.js.map
